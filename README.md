@@ -47,7 +47,7 @@ It’s hard to know the exact schedule of what we can cover during the lecture s
 3. Scripting vs. Compiled
 4. To OOP or not to OOP
 
-###Week 3: Programming Constructs
+### Week 3: Programming Constructs
 1. Making Decisions, Good or Bad (If Conditionals)
 1. Getting Loopy (For, While and Do/While Loops)
 
