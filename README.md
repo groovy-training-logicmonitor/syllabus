@@ -28,7 +28,7 @@ I’ll give small assignment, mostly through GitHub. The goal is to give the att
 
 ## Course Materials:
 * Computer with [Groovy](http://groovy-lang.org/download.html) installed
-* [GitHub](https://github.com/groovy-training-logicmonitor)account
+* [GitHub](https://github.com/groovy-training-logicmonitor) account
 * [IntelliJ](https://www.jetbrains.com/idea/download/) or other IDE
 * [Slack](https://logicmonitor-groovy.slack.com) account
 * _Optional:_ The [“Groovy in Action”](https://www.manning.com/books/groovy-in-action-second-edition) book
